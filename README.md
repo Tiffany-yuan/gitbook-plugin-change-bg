@@ -1,5 +1,5 @@
-# change_girls plugin
-s plugin add backgroundImg
+# change-bg plugin
+a plugin add backgroundImg
 
 ```json
 "plugins":["change-bg"]
