@@ -7,9 +7,8 @@ gitbook.events.bind('start', function (e, config){
     options = config['change-bg'] || {};
     imgUrl = options.url;
 });
-var id;
 gitbook.events.bind("page.change", function (){
-    $("<div>").addClass("girls").prependTo($(".book-body"));
+    $("<div>").addClass("bg").prependTo($(".book-body"));
 
-    $(".girls").css("backgroundImage", "url(" + imgUrls + ")");
+    $(".bg").css("backgroundImage", "url(" + imgUrl + ")");
 });
