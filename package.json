@@ -1,7 +1,7 @@
 {
-  "name": "gitbook-plugin-change_girls",
-  "version": "2.2.1",
-  "author": "lizhenchao",
+  "name": "gitbook-plugin-change-bg",
+  "version": "1.0.1",
+  "author": "yangmengyuan",
   "dependencies": {},
   "engines": {
     "gitbook": ">1.x.x"
