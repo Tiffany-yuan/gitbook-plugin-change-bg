@@ -2,18 +2,8 @@
   "name": "gitbook-plugin-change-bg",
   "version": "1.0.0",
   "description": "change gitbook background",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tiffany-yuan/gitbook-plugin-change-bg.git"
-  },
-  "author": "yangmengyuan",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Tiffany-yuan/gitbook-plugin-change-bg/issues"
-  },
-  "homepage": "https://github.com/Tiffany-yuan/gitbook-plugin-change-bg#readme"
+  "dependencies": {},
+  "engines": {
+    "gitbook": ">1.x.x"
+  }
 }
