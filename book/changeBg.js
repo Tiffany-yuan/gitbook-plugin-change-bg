@@ -4,7 +4,7 @@ var imgUrls;
 var time;
 gitbook.events.bind('start', function (e, config){
     // Save config data
-    options = config['change_bg'] || {};
+    options = config['change-bg'] || {};
     imgUrl = options.url;
 });
 var id;
