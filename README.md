@@ -1,8 +1,8 @@
 # change_girls plugin
-s plugin add backgroundImg,  and auto change these imgs.
+s plugin add backgroundImg
 
 ```json
-"plugins":["change_bg"]
+"plugins":["change-bg"]
 
 "pluginsConfig": {
     
