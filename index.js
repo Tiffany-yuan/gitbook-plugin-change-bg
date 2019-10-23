@@ -2,10 +2,10 @@ module.exports = {
     website: {
         assets: './book',
         js: [
-            'girls.js'
+            'changeBg.js'
         ],
         css: [
-            'girls.css'
+            'changeBg.css'
         ]
     }
-};
+}
